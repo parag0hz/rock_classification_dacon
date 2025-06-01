@@ -7,10 +7,35 @@ public, private 리더보드에서 최종 1위를 기록하였습니다.
 
 ## 1. 환경 설정
 ### 1-1. 저장소 코드 복사 
+```
+  git clone https://github.com/dd0nw/rock_classification_dacon.git
+
+```
 ### 1-2. 패키지 설치
-
+```
+  conda env create -f environment.yaml
+```
 ## 2. 폴더 구조
-
+```
+  ├── train
+  │   ├── Andesite
+  │   │   ├── TRAIN_00000.jpg
+  │   │   ├── TRAIN_00001.jpg
+  │   │   ├── TRAIN_00002.jpg
+  │   ├── ...
+  │   └── Etc
+  │       └── TRAIN_xxxxx.jpg
+  ├── test
+  │   ├── TEST_00000.jpg
+  │   ├── TEST_00001.jpg
+  │   ├── ...
+  │   └── TEST_xxxxx.jpg
+  ├── sample_submission.csv
+  ├── train.csv
+  ├── test.csv
+  ├── Dacon_Final.ipynb
+  └── ckpt
+```
 
 
 ## 3. 모델 가중치
