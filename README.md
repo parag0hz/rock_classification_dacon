@@ -9,7 +9,6 @@ public, private 리더보드에서 최종 1위를 기록하였습니다.
 ### 1-1. 저장소 코드 복사 
 ```
   git clone https://github.com/dd0nw/rock_classification_dacon.git
-
 ```
 ### 1-2. 패키지 설치
 ```
@@ -33,8 +32,7 @@ public, private 리더보드에서 최종 1위를 기록하였습니다.
   ├── sample_submission.csv
   ├── train.csv
   ├── test.csv
-  ├── Dacon_Final.ipynb
-  └── ckpt
+  └──Dacon_Final.ipynb
 ```
 
 
