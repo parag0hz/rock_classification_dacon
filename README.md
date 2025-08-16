@@ -1,6 +1,5 @@
   # 건설용 자갈 암석 종류 분류 AI 경진대회
 ### 알고리즘 | 월간 데이콘 | 비전 | 분류 | macro-f1
-<img width="1077" alt="스크린샷 2025-06-26 오전 3 58 04" src="https://github.com/user-attachments/assets/2b638f52-811b-4990-9478-159d0bb3b002" />
 
 public, private 리더보드에서 최종 1위를 기록하였습니다.
 * public score (1st) : 0.93557
